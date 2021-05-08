@@ -49,18 +49,3 @@ function ListBookComponent() {
     );
 }
 export default ListBookComponent;
-
-
-
-
-
-
-    //document.cookie = "sessionid=56dq69nm9zw1whvitra80ymuqxvuta36"; //expires=Thu, 19 May 2021 12:00:00 UTC";
-    
-    
-
-
-    //import Cookies from 'js-cookie';
-// axios.defaults.xsrfHeaderName = "X-CSRFTOKEN";
-// axios.defaults.xsrfCookieName = "XCSRF-TOKEN";
-// axios.defaults.withCredentials = true;
