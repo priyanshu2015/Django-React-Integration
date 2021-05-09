@@ -40,7 +40,7 @@ class LoginView(APIView):
         serializer.is_valid(raise_exception=True)
         user = serializer.validated_data['user']
         login(request, user)
-        return Response("loginned")
+        return Response("Logged in")
 
 
 
